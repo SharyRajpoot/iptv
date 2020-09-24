@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/ayush_tv_in.png" tvg-country="IN" tvg-url="" group-title="Lifestyle",Ayush TV
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-id="Fine Living" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="Lifestyle",Fine Living
+http://5.135.92.133:52841/out/u/498_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malayalam" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kappa_tv_in.png" tvg-country="IN" tvg-url="" group-title="Lifestyle",Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="" tvg-language="" tvg-logo="https://drive.google.com/uc?export=download&id=1jiKfAB2jcuC7oDDEbpr8vGXi8IsYV9VX" tvg-country="UNSORTED" tvg-url="" group-title="Lifestyle",National Geographic
+http://5.135.92.133:52841/out/u/83_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/MnIvaNC.png" tvg-country="BR" tvg-url="" group-title="Lifestyle",TV das Artes
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8

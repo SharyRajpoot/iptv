@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Kids",3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://i.imgur.com/hAgaVPa.jpg" tvg-country="IN" tvg-url="" group-title="Kids",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/myuUvgO.jpg" tvg-country="PH" tvg-url="" group-title="Kids",ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" tvg-country="AE" tvg-url="" group-title="Kids",Cartoon Network Arabic
+https://shls-cartoon-net-prod.shahid.net/cartoon-network-prod.m3u8
+#EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" tvg-country="UK" tvg-url="" group-title="Kids",Cbeebies
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV中国中央电视台-14 少儿
+http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV中国中央电视台-14 少儿
+http://117.148.187.37/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV中国中央电视台-14 少儿
+http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",CCTV中国中央电视台-14 少儿
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 tvg-id="Kan 23-IS" tvg-name="IL: Kan 23" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png" tvg-country="IL" tvg-url="" group-title="Kids",ch 23 החינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6uoNAAj.png" tvg-country="BR" tvg-url="" group-title="Kids",Discovery Kids
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HodHod TV" tvg-language="Persian" tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" tvg-country="IR" tvg-url="" group-title="Kids",Hodhod
+http://51.158.184.234/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png" tvg-country="IN" tvg-url="" group-title="Kids",IBC Kids
+https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv-kids-95x77.gif" tvg-country="KW" tvg-url="" group-title="Kids",KTV Kids
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tfc2BYM.png" tvg-country="PT" tvg-url="" group-title="Kids",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ukrainian" tvg-logo="" tvg-country="UA" tvg-url="" group-title="Kids",Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" tvg-country="BR" tvg-url="" group-title="Kids",Nickelodeon
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Persiana 3 JUNIOR" tvg-language="Persian" tvg-logo="https://i.imgur.com/o9Gu7XX.png" tvg-country="IR" tvg-url="" group-title="Kids",Persiana 3 JUNIOR
+http://51.158.74.129/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" tvg-country="SY" tvg-url="" group-title="Kids",Spacetoon
+https://shls-spacetoon-next.shahid.net/spacetoon-nextologies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" tvg-country="SY" tvg-url="" group-title="Kids",Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/wOxnItQ.png" tvg-country="LB" tvg-url="" group-title="Kids",Taha TV
+https://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Kids",TCT Kids
+https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT Cocuk TR" tvg-name="TRT Cocuk TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" tvg-country="TR" tvg-url="" group-title="Kids",TRT Cocuk
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="SV" tvg-url="" group-title="Kids",WOW!TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/7sUmqv2.png" tvg-country="GR" tvg-url="" group-title="Kids",WZra Kids TV
+http://wpso.com:1936/hls/kidshd.m3u8
+#EXTINF:-1 tvg-id="lubimoe-tv" tvg-name="Любимое.ТВ" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Kids",Любимое.ТВ
+https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8
+#EXTINF:-1 tvg-id="maliatko-tv" tvg-name="Малятко TV" tvg-language="Ukrainian" tvg-logo="https://iptvx.one/icn/maliatko-tv.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Kids",Малятко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",优漫卡通
+http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",优漫卡通
+http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",优漫卡通
+http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",优漫卡通
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Kids",北京卡酷少儿
+http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Kids",北京卡酷少儿
+http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Kids",北京卡酷少儿
+http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://i.imgur.com/YojAv3d.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",哈哈炫动Toon Max TV
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",哈哈炫动卫视
+http://210.210.155.35/qwr9ew/s/s50/index.m3u8
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="http://www.jiajiakt.com/images/global/logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",嘉佳卡通
+http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",嘉佳卡通
+http://117.148.187.37/PLTV/88888888/224/3221226461/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Kids",炫动卡通
+http://121.31.30.90:8085/ysten-business/live/xuandongkaton/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Kids",炫动卡通
+http://121.31.30.90:8085/ysten-business/live/xuandongkaton/yst.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Kids",炫动卡通
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="Kids",福州少儿
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",金鹰卡通
+http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",金鹰卡通
+http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",金鹰卡通
+http://121.31.30.90:8085/ysten-business/live/jinyingkaton/yst.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",金鹰卡通
+http://223.82.250.72/live/jinyingkaton/1.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Kids",金鹰卡通
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" tvg-country="CN" tvg-url="" group-title="Kids",黑莓动画 (Backup)
+http://121.31.30.90:8085/ysten-business/live/donghuawg/1.m3u8
