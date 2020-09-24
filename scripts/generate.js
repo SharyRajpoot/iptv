@@ -178,6 +178,11 @@ function generateCountries() {
     // Generating country index file
     helper.appendToFile(indexFile, "#EXTINF:-1," + countries.getCountryInfo(cid).name + "\n")
     helper.appendToFile(indexFile, filename.replace('./', "") + "\n")
+
+    const channels = helper.sortBy(Object.values(country), ['name', 'url'])
+    for (let channel of channels) {
+      helper.appendToFile(filename, channel.toString())
+    }
   }
 }
 
